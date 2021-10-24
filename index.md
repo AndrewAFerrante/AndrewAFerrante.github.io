@@ -1,4 +1,4 @@
- ---
+---
 title: "Andrew A Ferrante"
 layout: splash
 author_profile: false
