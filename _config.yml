@@ -104,7 +104,7 @@ author:
   name             : "Andrew A Ferrante"
   avatar           : "/assets/images/headshot.jpg"
   bio              : "Economic Research Assistant at the FDIC. Interests: Financial Regulation, Monetary Policy, and Financial History."
-  location         : "United States of America"
+  location         : 
   email            :
   links:
 #    - label: "Website"
