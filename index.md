@@ -9,7 +9,7 @@ header:
   actions:
     - label: "About Me"
       url: "https://andrewaferrante.github.io/about/"
-excerpt: "Personal ideas and notes from a Financial Economist."
+excerpt: "Personal ideas and notes from a financial economist researcher."
 intro: 
     - excerpt: "Something that everyone knows isn't worth knowing. - Bernard Baruch."
 intro2:
