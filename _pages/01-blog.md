@@ -2,6 +2,7 @@
 title: "Blog"
 permalink: /blog/
 author_profile: false
+classes: wide
 ---
 
 This is where I am going to post most of my writings. For now will just want to focus on hot takes for big new stories. Will possibly move into some sort of newsletter in the future. I need to sharpen my writing skills and need a place to keep everything organized.
