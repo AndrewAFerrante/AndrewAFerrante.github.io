@@ -9,15 +9,38 @@ main:
   - title: "About"
     url: /about/
 
-# main links
-# main:
-#  - title: "Quick-Start Guide"
-#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#History Page Sidebar Navigation
+history:
+  - title: Timelines
+    children:
+      - title: "US Financial Regulation Timeline"
+        url: /history/us-financial-regulation-timeline/
+      - title: "US Financial Markets Timeline"
+        url: /history/us-financial-markets-timeline/
+  - title: Books
+    children:
+      - title: "History Book Recommendations"
+        url: /history/history-book-recommendations/
+
+#Data Page Sidebar Navigation
+data:
+  - title: Databases
+    children:
+      - title: "Government Databases"
+        url: /data/government-databases/
+      - title: "Non-Government Databases"
+        url: /data/non-government-databases/
+      - title: "Financial Calculators"
+        url: /data/financial-calculators/
+  - title: Coding
+    children:
+      - title: "R"
+        url: /data/r/
+      - title: "Python"
+        url: /data/python/
+      - title: "SQL"
+        url: /data/sql/
+      - title: "SAS"
+        url: /data/sas/
+      - title: "Stata"
+        url: /data/stata/
