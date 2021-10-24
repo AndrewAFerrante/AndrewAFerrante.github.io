@@ -30,7 +30,7 @@ I have always wanted to work in an industry that involved studying money. As a c
 <details>
 <summary>Why Finance?</summary>
 <br>
-One of my favorite books as a chidl was "The Motley Fool Investment Guide for Teens". I was so fascinated with the financial concepts of compound growth, retirement matching, and saving for the future. Since learning about personal finance at a young age, I have been very frugal with my spending. I was even hesitant to spend my $25 iTunes gift card birthday presents even though the money could only be spent on iTunes! I used to wonder why stock prices would go up or down at different times until I learend the price only reflects how much the collective is willing to pay for something, using the laws of Supply and Demand.
+One of my favorite books as a child was "The Motley Fool Investment Guide for Teens". I was so fascinated with the financial concepts of compound growth, retirement matching, and saving for the future. Since learning about personal finance at a young age, I have been very frugal with my spending. I was even hesitant to spend my $25 iTunes gift card birthday presents even though the money could only be spent on iTunes! I used to wonder why stock prices would go up or down at different times until I learend the price only reflects how much the collective is willing to pay for something, using the laws of Supply and Demand.
 </details>
 
 
