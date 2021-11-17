@@ -8,6 +8,8 @@ sidebar:
 
 This page will be used for all my data analysis examples and tutorials.
 
+I am planning to add more, but in the time being feel free to check out the code for this website [here](https://github.com/AndrewAFerrante/AndrewAFerrante.github.io)!
+
 Things in the works:
 * List of primary database sources with links
 * Household Data Dashboard
