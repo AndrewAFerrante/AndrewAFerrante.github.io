@@ -37,7 +37,7 @@ data:
     children:
       - title: Test1
         url: /data/r/test1
-   - title: Other Coding
+  - title: Other Coding
     children:
       - title: "Python"
         url: /data/python/
