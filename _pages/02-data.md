@@ -6,7 +6,11 @@ sidebar:
   nav: "data"
 ---
 
-Welcome to my data section! Here you will find a list of popular databases I frequently share with others along with general popular databases used by most in the industry.
+Welcome to my data section! This is an area dedicated to sharing popular databases available on the internet as well as resources for beginner coders starting to use data science tools for the first time.
+
+### Databases
+
+Here you will find a list of popular databases I frequently share with others along with general popular databases used by most in the industry.
 I have them broken out by Government Databases, Non-Government Databases, and Financial Calculators.
 
 [Government Databases](https://andrewaferrante.github.io/data/government-databases/) include a list of primary source databases with data collected by federal, state, and local governments. These are considered gold standard quality data in the industry.
@@ -17,7 +21,7 @@ I have them broken out by Government Databases, Non-Government Databases, and Fi
 
 All the resources come from my ever growing list of bookmarked resources, so more will be added as the years go by!
 
-
+### Beginner Coding
 
 I am planning to add more, but in the time being feel free to check out the code for this website [here](https://github.com/AndrewAFerrante/AndrewAFerrante.github.io)!
 
