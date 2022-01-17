@@ -6,7 +6,7 @@ classes: wide
 ---
 ### About Me
 
-Andrew Antonino Ferrante is a Financial Economist working at the Federal Deposit Insurance Corporation in Kansas City. A devoted scholar of finance, economics, and the interdisciplinary combination of the two, Andrew earned a Bachelor's in Business Administration and English minor from the University of Dayton. 
+TEST! Andrew Antonino Ferrante is a Financial Economist working at the Federal Deposit Insurance Corporation in Kansas City. A devoted scholar of finance, economics, and the interdisciplinary combination of the two, Andrew earned a Bachelor's in Business Administration and English minor from the University of Dayton. 
 
 As an avid reader and loyal listener, Andrew regularly hones his industry knowledge by reading the latest scholarly submissions and keeping up to date with popular financial podcasts.
 
