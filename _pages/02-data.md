@@ -23,15 +23,19 @@ All the resources come from my ever growing list of bookmarked resources, so mor
 
 ### Beginner Coding
 
-I am planning to add more, but in the time being feel free to check out the code for this website [here](https://github.com/AndrewAFerrante/AndrewAFerrante.github.io)!
+Here you will find my tutorials on starting out as a beginner using popular data science tools. The purpose of the tutorials is to help Excel users easily nagivate the growing world of data science. Sometimes, there are free data tools available that can manipulate data easier than Excel, or even work with data that isn't possible in Excel. I want to help beginners take advantage of what is available.
 
+My mission is to help beginner users learn about these fantastic resourses without having the barriers to study industry **jargon** and to help find the best ways to **troubleshoot**. I had a hard time learning a lot of these tools since there is a lot of jargon to try and understand. Also, when I would get stuck working on certain projects, it became frustrating trying to figure things out, so I want to help beginners find the best way to troubleshoot when they inneviatebly come across problems.
+
+
+<!---
 Things in the works:
 * List of primary database sources with links
 * Household Data Dashboard
 * Links to sources
 * Yahoo finance API
 
-<!---
+
 * R and Python BLS API
 * R and Python FRED API
 * Haver Analytics API Tutorial
