@@ -32,13 +32,10 @@ data:
         url: /data/non-government-databases/
       - title: "Financial Calculators"
         url: /data/financial-calculators/
-  - title: R
-    url: /data/r/
+  - title: Coding
     children:
-      - title: Test1
-        url: /data/r/test1
-  - title: Other Coding
-    children:
+      - title: "R"
+        url: /data/r/
       - title: "Python"
         url: /data/python/
       - title: "SQL"
@@ -46,4 +43,4 @@ data:
       - title: "SAS"
         url: /data/sas/
       - title: "Stata"
-        url: /data/stata/       
+        url: /data/stata/
