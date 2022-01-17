@@ -32,15 +32,15 @@ data:
         url: /data/non-government-databases/
       - title: "Financial Calculators"
         url: /data/financial-calculators/
-  - title: Coding
+  - title: Beginner Coding
     children:
       - title: "R"
-        url: /data/r/
+        url: /data/beginner_r/
       - title: "Python"
-        url: /data/python/
+        url: /data/beginner_python/
       - title: "SQL"
-        url: /data/sql/
+        url: /data/beginner_sql/
       - title: "SAS"
-        url: /data/sas/
+        url: /data/beginner_sas/
       - title: "Stata"
-        url: /data/stata/
+        url: /data/beginner_stata/
