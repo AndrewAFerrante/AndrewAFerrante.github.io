@@ -32,7 +32,7 @@ data:
         url: /data/non-government-databases/
       - title: "Financial Calculators"
         url: /data/financial-calculators/
-  - title: Beginner Coding
+  - title: Beginner Coding for Excel Users
     children:
       - title: "R"
         url: /data/beginner_r/
