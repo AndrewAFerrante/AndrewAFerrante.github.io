@@ -32,6 +32,10 @@ NOTE DESCRIPTION
 </div>
 
 
+My important paragraph.
+{: .alert .alert-info}
+
+
 
 ### Beginner Coding For Excel Users
 
