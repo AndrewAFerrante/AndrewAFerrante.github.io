@@ -21,6 +21,7 @@ I have them broken out by Government Databases, Non-Government Databases, and Fi
 
 All the resources come from my ever growing list of bookmarked resources, so more will be added as the years go by!
 
+{::options parse_block_html="true" /}
 <div class="panel panel-info">
 **Note**
 {: .panel-heading}
