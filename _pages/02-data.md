@@ -25,15 +25,12 @@ All the resources come from my ever growing list of bookmarked resources, so mor
 **NOTE:** My important paragraph.
 {: .alert .alert-info}
 
-
-```bash title = '**NOTE:** My important paragraph.'
-```
-
-
-```bash title="echo Example"
-echo "{++Hello++} <span class="name">$name</span>"
-```
-
+{::options parse_block_html="true" /}
+<div class="panel panel-info">
+**NOTE:** My important paragraph.
+{: .panel-heading}
+</div>
+  
 ### Beginner Coding For Excel Users
 
 Here you will find my tutorials on starting out as a beginner using popular data science tools. The purpose of the tutorials is to help Excel users easily nagivate the growing world of data science. Sometimes, there are free data tools available that can manipulate data easier than Excel, or even work with data that isn't possible in Excel. I want to help beginners take advantage of what is available.
