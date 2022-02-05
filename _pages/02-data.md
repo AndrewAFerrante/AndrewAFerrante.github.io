@@ -22,20 +22,8 @@ I have them broken out by Government Databases, Non-Government Databases, and Fi
 All the resources come from my ever growing list of bookmarked resources, so more will be added as the years go by!
 
 {::options parse_block_html="true" /}
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
-</div>
-
-
-My important paragraph.
+**NOTE:** My important paragraph.
 {: .alert .alert-info}
-
 
 
 ### Beginner Coding For Excel Users
