@@ -26,7 +26,7 @@ All the resources come from my ever growing list of bookmarked resources, so mor
 {: .alert .alert-info}
 
 
-```title = **NOTE:** My important paragraph.
+```bash title = '**NOTE:** My important paragraph.'
 ```
 
 ### Beginner Coding For Excel Users
