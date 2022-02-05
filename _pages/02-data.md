@@ -5,6 +5,7 @@ author_profile: false
 sidebar:
   nav: "data"
 ---
+{::options parse_block_html="true" /}
 
 Welcome to my data section! This is an area dedicated to sharing popular databases available on the internet as well as resources for beginner coders starting to use data science tools for the first time.
 
