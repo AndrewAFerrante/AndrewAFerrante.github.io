@@ -35,12 +35,12 @@ data:
   - title: Beginner Coding for Excel Users
     children:
       - title: "R"
-        url: /data/beginner_r/
+        url: /data/r/
       - title: "Python"
-        url: /data/beginner_python/
+        url: /data/python/
       - title: "SQL"
-        url: /data/beginner_sql/
+        url: /data/sql/
       - title: "SAS"
-        url: /data/beginner_sas/
+        url: /data/sas/
       - title: "Stata"
-        url: /data/beginner_stata/
+        url: /data/stata/
