@@ -21,16 +21,7 @@ I have them broken out by Government Databases, Non-Government Databases, and Fi
 
 All the resources come from my ever growing list of bookmarked resources, so more will be added as the years go by!
 
-{::options parse_block_html="true" /}
-**NOTE:** My important paragraph.
-{: .alert .alert-info}
-
-{::options parse_block_html="true" /}
-<div class="panel panel-info">
-**NOTE:** My important paragraph.
-{: .panel-heading}
-</div>
-  
+ 
 ### Beginner Coding For Excel Users
 
 Here you will find my tutorials on starting out as a beginner using popular data science tools. The purpose of the tutorials is to help Excel users easily nagivate the growing world of data science. Sometimes, there are free data tools available that can manipulate data easier than Excel, or even work with data that isn't possible in Excel. I want to help beginners take advantage of what is available.
