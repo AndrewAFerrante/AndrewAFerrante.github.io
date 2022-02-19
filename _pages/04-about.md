@@ -6,10 +6,11 @@ classes: wide
 ---
 ### About Me
 
-TEST! Andrew Antonino Ferrante is a Financial Economist working at the Federal Deposit Insurance Corporation in Kansas City. A devoted scholar of finance, economics, and the interdisciplinary combination of the two, Andrew earned a Bachelor's in Business Administration and English minor from the University of Dayton. 
+Andrew A Ferrante is a economist researcher working at the Federal Deposit Insurance Corporation. A devoted scholar of finance, economics, and the interdisciplinary combination of the two, Andrew earned a Bachelor's in Business Administration and English minor from the University of Dayton. 
 
 As an avid reader and loyal listener, Andrew regularly hones his industry knowledge by reading the latest scholarly submissions and keeping up to date with popular financial podcasts.
 
+<!---
 ### Resume
 
 * Here is where I need to put my resume (save in Github)
@@ -17,6 +18,7 @@ As an avid reader and loyal listener, Andrew regularly hones his industry knowle
 ### Undergraduate Thesis
 
 * Include links to Senior thesis and slideshow
+--->
 
 ### FAQ
 
@@ -40,6 +42,7 @@ One of my favorite books as a child was "The Motley Fool Investment Guide for Te
 I believe the key to a fruitful and long life is through learning. I spend most of my free time listening to podcasts, learning spanish, reading, playing the piano, and learning new computer software and coding. I even taught myself to how to use Markdown, Jekyll, and YAML to get this website up and running! I also rely on a healthy exercise habit of running, stretching, and using gymnastic rings for calesthetics to keep my mind clear and stress free.
 </details>
 
+<!----
 ### Fun Photos
 
 * Pics from Ud2NYC
@@ -49,12 +52,11 @@ I believe the key to a fruitful and long life is through learning. I spend most 
 * Pic from CLE Fed
 * Pic from KC Fed
 
-<!----
 Adding images with captions
 {% include figure image_path="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 --->
 
-
+<!---
 ### Contact Me
 
 * Add contact box
@@ -63,7 +65,6 @@ Adding images with captions
   * Subject
   * Message
 
-<!---
 <details>
 <summary>How do I dropdown?</summary>
 <br>
